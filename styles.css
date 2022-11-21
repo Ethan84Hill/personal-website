@@ -68,8 +68,12 @@
 
     .projectBackground {
         background-color: rgb(89, 0, 172);
-        margin: 20px;
+        margin: auto;
         border-radius: 5px;
+        width: 350px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
     }
 
     .project {
@@ -168,8 +172,12 @@
 
     .projectBackground {
         background-color: rgb(89, 0, 172);
-        margin: 20px;
+        margin: auto;
         border-radius: 5px;
+        width: 450px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
     }
 
     .project {
@@ -273,7 +281,7 @@
         background-color: rgb(89, 0, 172);
         margin: 20px;
         border-radius: 5px;
-        width: 350px;
+        width: 400px;
     }
 
     .project {
