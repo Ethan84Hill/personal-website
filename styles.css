@@ -1,3 +1,114 @@
-body {
-    background-color: red;
+@media (width < 768px) {
+    html {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    body {
+        background-color: rgb(89, 0, 172);
+    }
+    
+    .name {
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        background-color: rgb(29, 108, 255);
+        margin: auto;
+        width: 250px;
+        padding: 5px;
+        border-radius: 5px;
+    }
+
+    .backgroundAboutMe {
+        background-color: rgb(29, 108, 255);
+        border-radius: 5px;
+        margin-top: 20px;
+        padding-bottom: 10px;
+    }
+
+    .about {
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        padding: 10px;
+        text-decoration: underline;
+    }
+
+    .aboutMeText {
+        color: white;
+        font-size: 15px;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .githubLink {
+        text-decoration: none;
+        color: white;
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        background-color: rgb(89, 0, 172);
+        margin: auto;
+        width: 50px;
+        border-radius: 5px;
+    }
+
+    .myProjectsBackground {
+        background-color: rgb(29, 108, 255);
+        border-radius: 5px;
+        padding-bottom: 40px;
+    }
+
+    .myProjects {
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        padding: 10px;
+        text-decoration: underline;
+    }
+
+    .firstProjectBackground {
+        background-color: rgb(89, 0, 172);
+        margin: 20px;
+        border-radius: 5px;
+    }
+
+    .firstProject {
+        color: white;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .firstProjectLink {
+        text-decoration: none;
+        color: white;
+        display: flex;
+        justify-content: center;
+        background-color: rgb(29, 108, 255);
+        padding: 10px;
+        margin: auto;
+        width: 170px;
+        border-radius: 5px;
+    }
+
+    .firstProjectDetails {
+        color: white;
+        text-align: center;
+        padding: 10px;
+    }
+}
+
+
+
+
+
+@media (width > 768px) and (width < 1024) {
+    
+}
+
+
+
+
+
+@media (width > 1024px) and (width < 1440px) {
+    
 }
