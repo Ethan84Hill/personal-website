@@ -11,15 +11,16 @@
         color: white;
         font-size: 20px;
         text-align: center;
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         margin: auto;
         width: 250px;
         padding: 5px;
         border-radius: 5px;
+        box-shadow: 6px 4px black;
     }
 
     .backgroundAboutMe {
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         border-radius: 5px;
         margin-top: 20px;
         padding-bottom: 10px;
@@ -47,13 +48,14 @@
         justify-content: center;
         padding: 10px;
         background-color: rgb(89, 0, 172);
+        box-shadow: 6px 4px black;
         margin: auto;
         width: 50px;
         border-radius: 5px;
     }
 
     .myProjectsBackground {
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         border-radius: 5px;
         padding-bottom: 40px;
     }
@@ -74,6 +76,7 @@
         display: flex;
         flex-direction: column;
         margin-bottom: 20px;
+        box-shadow: 6px 4px black;
     }
 
     .project {
@@ -88,11 +91,12 @@
         color: white;
         display: flex;
         justify-content: center;
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         padding: 10px;
         margin: auto;
         width: 170px;
         border-radius: 5px;
+        box-shadow: 6px 4px black;
     }
 
     .projectDetails {
@@ -116,15 +120,16 @@
         color: white;
         font-size: 20px;
         text-align: center;
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         margin: auto;
         width: 250px;
         padding: 5px;
         border-radius: 5px;
+        box-shadow: 6px 4px black;
     }
 
     .backgroundAboutMe {
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         border-radius: 5px;
         margin-top: 20px;
         padding-bottom: 10px;
@@ -152,13 +157,14 @@
         justify-content: center;
         padding: 10px;
         background-color: rgb(89, 0, 172);
+        box-shadow: 6px 4px black;
         margin: auto;
         width: 50px;
         border-radius: 5px;
     }
 
     .myProjectsBackground {
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         border-radius: 5px;
         padding-bottom: 40px;
     }
@@ -179,6 +185,7 @@
         display: flex;
         flex-direction: column;
         margin-bottom: 20px;
+        box-shadow: 6px 4px black;
     }
 
     .project {
@@ -193,11 +200,12 @@
         color: white;
         display: flex;
         justify-content: center;
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         padding: 10px;
         margin: auto;
         width: 170px;
         border-radius: 5px;
+        box-shadow: 6px 4px black;
     }
 
     .projectDetails {
@@ -211,7 +219,7 @@
 
 
 
-@media (width > 1024px) and (width < 1920px) {
+@media (width > 1024px) and (width < 3000px) {
     html {
         font-family: Arial, Helvetica, sans-serif;
     }
@@ -224,15 +232,16 @@
         color: white;
         font-size: 20px;
         text-align: center;
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         margin: auto;
         width: 250px;
         padding: 5px;
         border-radius: 5px;
+        box-shadow: 6px 4px black;
     }
 
     .backgroundAboutMe {
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         border-radius: 5px;
         margin-top: 20px;
         padding-bottom: 10px;
@@ -263,10 +272,11 @@
         margin: auto;
         width: 50px;
         border-radius: 5px;
+        box-shadow: 6px 4px black;
     }
 
     .myProjectsBackground {
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         border-radius: 5px;
         padding-bottom: 40px;
     }
@@ -284,6 +294,7 @@
         margin: 20px;
         border-radius: 5px;
         width: 400px;
+        box-shadow: 6px 4px black;
     }
 
     .project {
@@ -298,11 +309,12 @@
         color: white;
         display: flex;
         justify-content: center;
-        background-color: rgb(29, 108, 255);
+        background-color: rgb(29, 202, 255);
         padding: 10px;
         margin: auto;
         width: 170px;
         border-radius: 5px;
+        box-shadow: 6px 4px black;
     }
 
     .projectDetails {
